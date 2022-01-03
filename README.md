@@ -28,3 +28,14 @@
 
    Once the model is trained it can work with a new set of images also -  needs just one example for matching.
 
+
+## Reference 
+   - [Image similarity estimation using a Siamese Network with a triplet loss
+](https://keras.io/examples/vision/siamese_network/)
+
+   - [A friendly introduction to Siamese Networks](https://towardsdatascience.com/a-friendly-introduction-to-siamese-networks-85ab17522942)
+ 
+   - [Siamese networks with Keras, TensorFlow, and Deep Learning](https://www.pyimagesearch.com/2020/11/30/siamese-networks-with-keras-tensorflow-and-deep-learning/) 
+
+
+
